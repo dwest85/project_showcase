@@ -12,7 +12,7 @@ To view a list of my skillset, please visit either my linkedin or my resume appl
 
 ### Machine Learning
 ---
-![covid_gif](github.com/dwest85/project_showcase/blob/main/markdown_gifs/covid19_gif.gif)
+![covid_gif](https://github.com/dwest85/project_showcase/blob/main/markdown_gifs/covid19_gif.gif)
 
 [Covid-19 Prediction Application Link - Hosted on Heroku](https://covidappproject.herokuapp.com/)
 
