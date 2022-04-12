@@ -12,9 +12,7 @@ To view a list of my skillset, please visit either my linkedin or my resume appl
 
 ### Machine Learning
 ---
-![covid_gif](placeholderfordashboardgif)
-
-![covid_image](placeholderfordashboardimage)
+![covid_gif](github.com/dwest85/project_showcase/blob/main/markdown_gifs/covid19_gif.gif)
 
 [Covid-19 Prediction Application Link - Hosted on Heroku](https://covidappproject.herokuapp.com/)
 
@@ -27,7 +25,7 @@ Using the different parameters, the application will predict the death probabili
 
 ### Dashboards and APIs
 ---
-![excel_dashboard_gif](exceldashboardgif)
+![excel_dashboard_gif](https://github.com/dwest85/project_showcase/blob/main/markdown_gifs/dashboard_gif.gif)
 
 ###### Description:
 I create and use dashboards weekly for my current company to create insight and build upon the progression of our company goals. The dashboards showcased above were custom built in Excel due to the data used being very compartmentalized and unprocessed|dirty. The reporting is pulled in from all over using an ETL pipline process and then using Python automation and Power Query for the updating process. Some of the processing examples for these dashboards can be found in the data_processing_wrangling_code folder. I also create dashboards using other platforms, such as Tableau and PowerBI.
@@ -38,7 +36,7 @@ I also use the Google Maps API frequently to incorporate competitor data into th
 
 ### Visualizations
 ---
-![tableau_reports_gif](tableaureportsgif)
+![tableau_reports_gif](https://github.com/dwest85/project_showcase/blob/main/markdown_gifs/visuals_gif.gif)
 
 ###### Description:
 I often create weekly visual reporting for our clientele using Tableau and Constant Contacts, but have used the following packages and platforms to also create visual insight: PowerBI, matplotlib, seaborn, plotly, ggplot2, altair, etc.
@@ -47,7 +45,7 @@ I often create weekly visual reporting for our clientele using Tableau and Const
 
 ### Python Automation|Scripts
 ---
-![scriptsgif](scriptsgif)
+![scriptsgif](https://github.com/dwest85/project_showcase/blob/main/markdown_gifs/automation_gif.gif)
 
 ###### Description:
 I often use Python based automation to help speed up productivity and precision throughout my work week. These small scripts are used for email chains, automated file structuring, data scraping, and many other uses. I also weave Batch and Powershell into the mix when automatiing certain objectives. 
@@ -56,9 +54,9 @@ I often use Python based automation to help speed up productivity and precision 
 
 ### Database Storage|Use
 ---
-![databaseimg1](placeholderfordatabaseimg)
+![databaseimg1](https://github.com/dwest85/project_showcase/blob/main/markdown_images/databaseimg1.jpg)
 
-![databaseimg2](placeholder)
+![databaseimg2](https://github.com/dwest85/project_showcase/blob/main/markdown_images/databaseimg2.jpg)
 
 ###### Description:
 I often use Postgres and SQL servers, such as AWS|Heroku to assist with proper file storage and data transfers. Creating a data warehouse is vital for data cleaning|processing.
