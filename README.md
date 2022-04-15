@@ -5,7 +5,7 @@ This README is to showcase projects I've previously made, as well as scripts and
 To view a list of my skillset, please visit either my linkedin or my resume application. Both links are offered below:
 ```
 [linkedin profile](https://www.linkedin.com/in/derek-westjohn-82154662)
-[resume application](placeholderforresumewebsite)
+[resume application](https://derekresumeappproject.herokuapp.com/)
 
 
 
