@@ -6,6 +6,7 @@ To view a list of my official skillset, please visit either my linkedin or my re
 Quick proficiency glance: SQL, Python, Power BI, Tableau, and more.
 ```
 [linkedin profile](https://www.linkedin.com/in/derek-westjohn-82154662)
+\n
 [resume application](https://derekresumeappproject.herokuapp.com/)
 
 
