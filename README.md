@@ -1,8 +1,9 @@
 ## Project|Work Showcase
 ---
 ```
-This README is to showcase projects I've previously made, as well as scripts and code I use in my daily worklife.
-To view a list of my skillset, please visit either my linkedin or my resume application. Both links are offered below:
+This README is to showcase projects I've previously made in correlation with my data science skillset.
+To view a list of my official skillset, please visit either my linkedin or my resume application.
+Quick proficiency glance: SQL, Python, Power BI, Tableau, and more.
 ```
 [linkedin profile](https://www.linkedin.com/in/derek-westjohn-82154662)
 [resume application](https://derekresumeappproject.herokuapp.com/)
