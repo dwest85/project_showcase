@@ -1,7 +1,7 @@
 ## Project|Work Showcase
 ---
 ```
-This README is to showcase projects I've previously made in correlation with my data science skillset.
+This portfolio is to showcase projects I've previously made in correlation with my data science skillset.
 To view a list of my official skillset, please visit either my linkedin or my resume application.
 Quick proficiency glance: SQL, Python, Power BI, Tableau, and more.
 ```
